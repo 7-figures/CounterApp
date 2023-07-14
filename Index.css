@@ -1,0 +1,41 @@
+
+body{
+    text-align: center;
+    background-image: url("hb v.jpg");
+    background-size: cover;
+    font-family: open sans-serif, Helvetica, Arial;
+    height: 100vh;
+}
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 60px;
+
+}
+button:hover{
+    color: #0c7db1;
+    background: white;
+    border: 2px solid rgb(5, 68, 104);
+}
+#increment-btn{
+    background:#2c2891;
+}
+#save-btn{
+    background: #1c7947;
+}
+#save-el{
+    font-weight: bold;
+}
+.container {
+    max-width: 80%;
+    background: white;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+
+}

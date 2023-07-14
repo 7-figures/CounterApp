@@ -1,0 +1,1 @@
+This is a simple counter app that saves the number of count everytime you click the increment button.
